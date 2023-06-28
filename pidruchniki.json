@@ -1,0 +1,340 @@
+{
+  "1": {
+    "Англійська мова": {
+      "icon": "books/1/english/subject_icon.svg",
+      "books": [
+        {
+          "id": 1,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "Астон",
+          "author": "О.Д. Карпюк",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/books/1/english/eng_aston.pdf",
+          "image": "/books/1/english/eng_aston.png"
+        },
+        {
+          "id": 2,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "Ранок",
+          "author": "І.В. Доценко, О.В. Євчук, С.С. Губарєва",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/books/1/english/eng_ranok.pdf",
+          "image": "/books/1/english/eng_ranok.png"
+        },
+        {
+          "id": 3,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "Навчальна книга - Богдан",
+          "author": "Т.Б. Будна",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/books/1/english/eng_bogdan.pdf",
+          "image": "/books/1/english/eng_bogdan.png"
+        },
+        {
+          "id": 4,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "Грамота",
+          "author": "Т.Ю. Бєляєва",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/books/1/english/eng_gramota.pdf",
+          "image": "/books/1/english/eng_gramota.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "Астон",
+          "author": "О.Д. Карпюк",
+          "class": "1",
+          "year": "2012",
+          "pdf": "/books/1/english/eng_aston2012.pdf",
+          "image": "/books/1/english/eng_aston2012.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "Генеза",
+          "author": "А.М. Несвіт",
+          "class": "1",
+          "year": "2012",
+          "pdf": "/books/1/english/eng_nesvit.pdf",
+          "image": "/books/1/english/eng_nesvit.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "Астон",
+          "author": "М.Є. Ростоцька, О.Д. Карпюк",
+          "class": "1",
+          "year": "2012",
+          "pdf": "/books/1/english/eng_aston2012_r.pdf",
+          "image": "/books/1/english/eng_aston2012_r.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Англійська мова",
+          "subject": "Англійська мова",
+          "edition": "ЦНМЛ",
+          "author": "Л.В. Калініна, І.В. Самойлюкевич",
+          "class": "1",
+          "year": "2012",
+          "pdf": "/books/1/english/eng_cnml.pdf",
+          "image": "/books/1/english/eng_cnml.jpeg"
+        }
+      ]
+    },
+    "Буквар": {
+      "icon": "books/1/bukvar/subject_icon.svg",
+      "books": [
+        {
+          "id": 9,
+          "name": "Українська мова Буквар ч1",
+          "subject": "Буквар",
+          "edition": "Літера",
+          "author": "Іщенко О. Л., Логачевська С. П",
+          "class": "1",
+          "year": "2012",
+          "pdf": "/bukvar/bukvar_litera.pdf",
+          "image": "/bukvar/bukvar_litera.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Українська мова Буквар ч2",
+          "subject": "Буквар",
+          "edition": "Літера",
+          "author": "Іщенко О. Л., Логачевська С. П",
+          "class": "1",
+          "year": "2012",
+          "pdf": "/bukvar/bukvar_litera_2.pdf",
+          "image": "/bukvar/bukvar_litera_2.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Українська мова Буквар ч1",
+          "subject": "Буквар",
+          "edition": "Ранок",
+          "author": "Воскресенська Н.О. Цепова І.В.",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_ranok_1.pdf",
+          "image": "/bukvar/bukvar_ranok_1.jpeg"
+        },
+        {
+          "id": 12,
+          "name": "Українська мова Буквар ч1",
+          "subject": "Буквар",
+          "edition": "Ранок",
+          "author": "Воскресенська Н.О. Цепова І.В.",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_ranok_2.pdf",
+          "image": "/bukvar/bukvar_ranok_2.jpeg"
+        },
+        {
+          "id": 13,
+          "name": "Українська мова Буквар ч1",
+          "subject": "Буквар",
+          "edition": "Освіта",
+          "author": "М.С. Вашуленко, О.В. Вашуленко",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_osvita.pdf",
+          "image": "/bukvar/bukvar_osvita.jpeg"
+        },
+        {
+          "id": 14,
+          "name": "Українська мова Буквар ч2",
+          "subject": "Буквар",
+          "edition": "Освіта",
+          "author": "М.С. Вашуленко, О.В. Вашуленко",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_osvita_2.pdf",
+          "image": "/bukvar/bukvar_osvita_2.jpeg"
+        },
+        {
+          "id": 15,
+          "name": "Українська мова Буквар ч1",
+          "subject": "Буквар",
+          "edition": "Навчальна книга - Богдан",
+          "author": "М.І. Чумарна",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_bogdan.pdf",
+          "image": "/bukvar/bukvar_bogdan.jpeg"
+        },
+        {
+          "id": 16,
+          "name": "Українська мова Буквар ч2",
+          "subject": "Буквар",
+          "edition": "Навчальна книга - Богдан",
+          "author": "М.І. Чумарна",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_bogdan_2.pdf",
+          "image": "/bukvar/bukvar_bogdan_2.jpeg"
+        },
+        {
+          "id": 17,
+          "name": "Українська мова Буквар ч1",
+          "subject": "Буквар",
+          "edition": "Астон",
+          "author": "В.І. Наумчук, М.М. Наумчук",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_aston.pdf",
+          "image": "/bukvar/bukvar_aston.jpeg"
+        },
+        {
+          "id": 18,
+          "name": "Українська мова Буквар ч2",
+          "subject": "Буквар",
+          "edition": "Астон",
+          "author": "В.І. Наумчук, М.М. Наумчук",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_aston_2.pdf",
+          "image": "/bukvar/bukvar_aston_2.jpeg"
+        },
+        {
+          "id": 19,
+          "name": "Українська мова Буквар ч1",
+          "subject": "Буквар",
+          "edition": "Генеза",
+          "author": "С.С. Тарнавська, В.О. Науменко",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_geneza.pdf",
+          "image": "/bukvar/bukvar_geneza.jpeg"
+        },
+        {
+          "id": 20,
+          "name": "Українська мова Буквар ч2",
+          "subject": "Буквар",
+          "edition": "Генеза",
+          "author": "С.С. Тарнавська, В.О. Науменко",
+          "class": "1",
+          "year": "2018",
+          "pdf": "/bukvar/bukvar_geneza_2.pdf",
+          "image": "/bukvar/bukvar_geneza_2.jpeg"
+        }
+      ]
+    }
+  },
+  "2 класс": {
+    "Математика": {
+      "icon": "books/2/math/subject_icon.svg",
+      "books": [
+        {
+          "id": 21,
+          "name": "Математика",
+          "subject": "Математика",
+          "edition": "Ранок",
+          "author": "С.О. Скворцова, О.В. Онопрієнко",
+          "class": "2",
+          "year": "2019",
+          "pdf": "/bukvar/bukvar_geneza_2.pdf",
+          "image": "/bukvar/bukvar_geneza_2.jpeg"
+        }
+      ]
+    },
+    "Я досліджую світ": {
+      "icon": "books/2/yaDoslSvit/subject_icon.svg",
+      "books": [
+        {
+          "id": 22,
+          "name": "Я досліджую світ",
+          "subject": "Я досліджую світ",
+          "edition": "Оріон",
+          "author": "Н.В. Морзе, О.В. Барна",
+          "class": "2",
+          "year": "2019",
+          "pdf": "/bukvar/bukvar_geneza_2.pdf",
+          "image": "/bukvar/bukvar_geneza_2.jpeg"
+        }
+      ]
+    }
+  },
+  "3 класс": {
+    "Математика": {
+      "icon": "books/2/math/subject_icon.svg",
+      "books": [
+        {
+          "id": 23,
+          "name": "Математика",
+          "subject": "Математика",
+          "edition": "Генеза",
+          "author": "М.В. Богданович, Г.П. Лишенко",
+          "class": "3",
+          "year": "2014",
+          "pdf": "/bukvar/math_geneza.pdf",
+          "image": "/bukvar/math_geneza.jpeg"
+        }
+      ]
+    }
+  },
+  "4 класс": {
+    "Математика": {
+      "icon": "books/2/math/subject_icon.svg",
+      "books": [
+        {
+          "id": 23,
+          "name": "Математика",
+          "subject": "Математика",
+          "edition": "Ранок",
+          "author": "С.О. Скворцова, О.В. Онопрієнко",
+          "class": "2",
+          "year": "2019",
+          "pdf": "/bukvar/bukvar_geneza_2.pdf",
+          "image": "/bukvar/bukvar_geneza_2.jpeg"
+        }
+      ]
+    }
+  },
+  "5 класс": {
+    "Математика": {
+      "icon": "books/2/math/subject_icon.svg",
+      "books": [
+        {
+          "id": 23,
+          "name": "Математика",
+          "subject": "Математика",
+          "edition": "Ранок",
+          "author": "С.О. Скворцова, О.В. Онопрієнко",
+          "class": "2",
+          "year": "2019",
+          "pdf": "/bukvar/bukvar_geneza_2.pdf",
+          "image": "/bukvar/bukvar_geneza_2.jpeg"
+        }
+      ]
+    }
+  },
+  "6 класс": {
+    "Математика": {
+      "icon": "books/2/math/subject_icon.svg",
+      "books": [
+        {
+          "id": 23,
+          "name": "Математика",
+          "subject": "Математика",
+          "edition": "Ранок",
+          "author": "С.О. Скворцова, О.В. Онопрієнко",
+          "class": "2",
+          "year": "2019",
+          "pdf": "/bukvar/bukvar_geneza_2.pdf",
+          "image": "/bukvar/bukvar_geneza_2.jpeg"
+        }
+      ]
+    }
+  }
+}
