@@ -1,6 +1,7 @@
 {
   "1": {
     "Англійська мова": {
+      "id": 1,
       "icon": "books/1/english/subject_icon.svg",
       "books": [
         {
@@ -94,6 +95,7 @@
       ]
     },
     "Буквар": {
+      "id": 2,
       "icon": "books/1/bukvar/subject_icon.svg",
       "books": [
         {
@@ -233,6 +235,7 @@
   },
   "2 класс": {
     "Математика": {
+      "id": 3,
       "icon": "books/2/math/subject_icon.svg",
       "books": [
         {
@@ -249,6 +252,7 @@
       ]
     },
     "Я досліджую світ": {
+      "id": 4,
       "icon": "books/2/yaDoslSvit/subject_icon.svg",
       "books": [
         {
@@ -267,6 +271,7 @@
   },
   "3 класс": {
     "Математика": {
+      "id": 5,
       "icon": "books/2/math/subject_icon.svg",
       "books": [
         {
@@ -285,6 +290,7 @@
   },
   "4 класс": {
     "Математика": {
+      "id": 6,
       "icon": "books/2/math/subject_icon.svg",
       "books": [
         {
@@ -303,6 +309,7 @@
   },
   "5 класс": {
     "Математика": {
+      "id": 7,
       "icon": "books/2/math/subject_icon.svg",
       "books": [
         {
@@ -321,6 +328,7 @@
   },
   "6 класс": {
     "Математика": {
+      "id": 8,
       "icon": "books/2/math/subject_icon.svg",
       "books": [
         {
